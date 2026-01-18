@@ -20,7 +20,7 @@ contrasts(df$nback) <- contr.sum
 contrasts(df$automation) <- contr.sum
 contrasts(df$runNumber) <- contr.sum
 ```
-All subsequent analyses were organized first by metric and then by hazard type. Each analysis workflow comprised data filtering, model specification and fitting, and post hoc analyses. 
+All subsequent analyses were organized first by metric and then by hazard type. Each workflow comprised data filtering, model specification and fitting, and post hoc analyses. 
 
 # Reaction Time
 
